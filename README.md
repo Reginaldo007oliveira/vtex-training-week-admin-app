@@ -1,5 +1,5 @@
 # Admin App
-
+Reginaldo Oliveira
 ## Objetivo
 
 Desenvolver componente com experiência parecida ao apresentado na Demo. O app deve expor uma rota no Admin que possua um botão de upload que abre um modal com uma área de input de arquivo. Ao receber um arquivo CSV com o formato que você determinar, ele deve fechar o modal e popular uma tabela com os dados. O App deve possuir tratamentos para formatos inesperados, tanto de arquivo quanto para colunas no CSV. O App deve possuir uma funcionalidade adicional de popular a tabela com dados do Master Data, da entidade CL.
